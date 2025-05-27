@@ -2,16 +2,16 @@
   new Chart(document.getElementById("chart"), {
     type: "line",
     data: {
-      labels: ["24.05", "25.05", "26.05"],
+      labels: ["24.05", "25.05", "26.05", "27.05"],
       datasets: [
         {
           label: "Rafał Trzaskowski",
-          data: [45.06, 46.15, 47.29],
+          data: [45.06, 46.15, 47.29, 48.85],
           borderColor: "rgb(255, 102, 0)",
         },
         {
           label: "Karol Nawrocki",
-          data: [54.94, 53.85, 52.71],
+          data: [54.94, 53.85, 52.71, 51.15],
           borderColor: "rgb(0, 43, 127)",
         },
       ],
