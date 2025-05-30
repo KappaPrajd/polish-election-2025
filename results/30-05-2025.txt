@@ -1,0 +1,43 @@
+LVBet:
+Trzaskowski: 1.95
+Nawrocki: 2.05
+
+
+Superbet:
+Trzaskowski: 1.85
+Nawrocki: 1.95
+
+
+Betfan:
+Trzaskowski: 1.8
+Nawrocki: 1.95
+
+
+STS:
+Trzaskowski: 1.8
+Nawrocki: 2.0
+
+
+Fuksiarz:
+Trzaskowski: 1.75
+Nawrocki: 1.95
+
+
+eToto:
+Trzaskowski: 1.75
+Nawrocki: 1.95
+
+
+LVBet:
+Trzaskowski: 1.95
+Nawrocki: 2.05
+
+
+Forbet:
+Trzaskowski: 1.73
+Nawrocki: 2.0
+
+
+Średnia:
+Trzaskowski: 1.82 52.17%
+Nawrocki: 1.99 47.83%
